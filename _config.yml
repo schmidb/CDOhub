@@ -30,7 +30,7 @@ theme:
   github:
   google_plus:
   instagram:
-  linkedin: "CDOhub"
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -39,7 +39,7 @@ theme:
   tumblr:
   twitter: "CDOschool"
   wordpress:
-  youtube: "CDOhub"
+  youtube:
 
   # Scripts
   google_analytics: "UA-73696258-1"
