@@ -43,7 +43,7 @@ theme:
 
   # Scripts
   google_analytics: "UA-73696258-1"
-  disqus_shortname:
+  disqus_shortname: "cdohub"
   katex: true # Enable if using math markup
 
   # Localization strings
