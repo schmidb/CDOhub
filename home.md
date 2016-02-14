@@ -7,18 +7,24 @@ feature-img: "img/banner-723917.jpg"
 hide: true
 ---
 
-##Idea & Concept
+# Idea & Concept
 comming soon
 
-##Pre-Registration
+# Pre-Registration
+comming soon
+
+* dsfa
+* fdsa
+* fdsa
+
+
+
+---
+
+# Chief Data Officer Definition
 comming soon
 
 ---
 
-##Chief Data Officer Definition
-comming soon
-
----
-
-##Chief Data Officer Differentiation
+# Chief Data Officer Differentiation
 comming soon
