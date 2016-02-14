@@ -13,11 +13,6 @@ comming soon
 # Pre-Registration
 comming soon
 
-* dsfa
-* fdsa
-* fdsa
-
-
 
 ---
 

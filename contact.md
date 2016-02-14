@@ -5,16 +5,16 @@ permalink: /contact/
 feature-img: "img/banner-643724.jpg"
 ---
 
-##Pre-Registration
+# Pre-Registration
 comming soon
 
-##Contact
+# Contact
 Contact form comming soon
 
-##Founders & Trainers
+# Founders & Trainers
 
-###Miriam Schmidberger
+## Miriam Schmidberger
 comming soon
 
-###Markus Schmidberger
+## Markus Schmidberger
 comming soon
