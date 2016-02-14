@@ -1,13 +1,24 @@
 ---
 layout: page
-title: Chief Data Officer School
+title: Chief Data Officer Business School
+subtitle: The place to train your CDO Skills and to learn how to create data-driven business value for your company and to exchange with CDOs.
 permalink: /index.html
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/banner-723917.jpg"
 hide: true
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+##Idea & Concept
+comming soon
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+##Pre-Registration
+comming soon
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+---
+
+##Chief Data Officer Definition
+comming soon
+
+---
+
+##Chief Data Officer Differentiation
+comming soon
