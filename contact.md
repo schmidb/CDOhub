@@ -5,8 +5,7 @@ permalink: /contact/
 feature-img: "img/banner-643724.jpg"
 ---
 
-# Pre-Registration
-comming soon
+{% include preregistration.html %}
 
 # Contact
 Contact form comming soon

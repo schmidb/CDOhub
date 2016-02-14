@@ -35,18 +35,8 @@ areas. This covers technical knowledge, communication and leading skills, data g
 CXO presentation skills, credibility and several more.
 All students will have at least 3 years working experience in one of the main CDO areas.
 
-<div id="form_sample">
-<h2>Pre-Registration</h2>
-<p>The online Chief Data Officer Business School starts in the beginning of 2017, leading CDOs share their knowledge 
-with participants and based on the in-service education you get well prepared for your CDO opportunities. Pre-register 
-with your email to get an official sign-up invitation first of all in 2016.</p>
-<form action="//formspree.io/registration@cdohub.com" method="POST">
-Your Name: <input type="text" name="name"><br>
-Your Email: <input type="text" name="email"><br>
-<input type="submit" value="Send">
-</form>
-</div>
 
+{% include preregistration.html %}
 
 
 ### Chief Data Officer Definition
