@@ -4,6 +4,7 @@ title: Imprint
 feature-img: "img/banner-911612.jpg"
 hide: true
 ---
+
 #Copyright
 The copyrights belong to Miriam & Markus Schmidberger. All text, graphics, images and animations which are published 
 here or are provided to download are subjects to copyright, unless noted otherwise. The websites may contain images 
