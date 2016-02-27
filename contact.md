@@ -4,9 +4,9 @@ title: Contact
 subtitle: Tell us your CDO's ideas, visions and concepts.
 permalink: /contact/
 feature-img: "img/header/banner-643724.jpg"
+
 ---
 
-# Contact
 We are very interested to hear your ideas, concepts and methodologies 
 for your daily Chief Data Officer work. Please get in contact with us 
 via email and help us to structure the best CDO business school program. 
