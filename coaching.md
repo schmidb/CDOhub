@@ -22,7 +22,7 @@ data project successful and to create new business value from your data.
 Get in contact with us via email to get your optimized coaching concept 
 and offering.
 
-**Email: info at cdohub.org**
+**Email: info at cdohub.com**
 
 <br>
 {% include preregistration.html %}

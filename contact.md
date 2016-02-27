@@ -15,7 +15,7 @@ You are a experienced CDO and interested to have a guest post on the
 CDOhub blog or getting a trainer in our school? Please get in contact 
 with us via email.
 
-**Email: info at cdohub.org**
+**Email: info at cdohub.com**
 
 <br>
 {% include preregistration.html %}
