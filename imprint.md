@@ -2,7 +2,7 @@
 layout: page
 title: Imprint
 permalink: /imprint/
-feature-img: "img/banner-911612.jpg"
+feature-img: "img/header/banner-911612.jpg"
 hide: true
 ---
 
@@ -42,9 +42,9 @@ Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 # Legal information according to German law (§5 TMG)
 Miriam & Markus Schmidberger
-Antoniusweg 13
-85386 Dieterhseim
-Phone: +49 175 1815 881
-E-mail: info at cdohub.com
-Sales tax ID: comming soon
+<br>Antoniusweg 13
+<br>85386 Dieterhseim
+<br>Phone: +49 175 1815 881
+<br>E-mail: info at cdohub.com
+<br>Sales tax ID: comming soon
 

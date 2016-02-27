@@ -3,7 +3,7 @@ layout: page
 title: Thanks for your Pre-Registration
 subtitle: "- we got your email -"
 permalink: /thankspreregistration/
-feature-img: "img/banner-904886.jpg"
+feature-img: "img/header/banner-904886.jpg"
 hide: true
 ---
 
