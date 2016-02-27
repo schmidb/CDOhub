@@ -42,9 +42,7 @@ Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 # Legal information according to German law (§5 TMG)
 Miriam & Markus Schmidberger
-<br>Antoniusweg 13
-<br>85386 Dieterhseim
-<br>Phone: +49 175 1815 881
+<br>Antoniusweg 13, 85386 Dietersheim, Germany
 <br>E-mail: info at cdohub.com
 <br>Sales tax ID: comming soon
 
