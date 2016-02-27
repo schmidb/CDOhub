@@ -3,7 +3,7 @@ layout: post
 title: My Definition for Chief Data Officer
 subtitle: lets start with a definition for the Chief Data Officer (CDO)
 feature-img: "img/header/banner-1044114.jpg"
-published: true
+published: false
 comments: true
 ---
 
