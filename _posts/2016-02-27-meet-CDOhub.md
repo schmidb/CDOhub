@@ -26,4 +26,5 @@ analysts. In view of the Chief Data Officer this is one essential step
 to create a successful data strategy. 
 
 Join one of my talks to learn more about the business influence of a 
-Lambda Architecture and to discuss efficient data platform strategies.
+Lambda Architecture and to discuss efficient data platform strategies. 
+Looking forward to see you.
