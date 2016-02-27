@@ -6,8 +6,6 @@ permalink: /contact/
 feature-img: "img/header/banner-643724.jpg"
 ---
 
-{% include preregistration.html %}
-
 # Contact
 We are very interested to hear your ideas, concepts and methodologies 
 for your daily Chief Data Officer work. Please get in contact with us 
@@ -18,6 +16,9 @@ CDOhub blog or getting a trainer in our school? Please get in contact
 with us via email.
 
 **Email: info at cdohub.org**
+
+<br>
+{% include preregistration.html %}
 
 # Founders & Trainers
 
