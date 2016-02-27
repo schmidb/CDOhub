@@ -3,7 +3,7 @@ layout: page
 title: Chief Data Officer Business School
 subtitle: The place to train your CDO Skills, to learn how to create data-driven business value for your company and to exchange with CDOs.
 permalink: /index.html
-feature-img: "img/header/banner-723917.jpg"
+feature-img: "img/header/banner-7239172.jpg"
 hide: true
 ---
 
