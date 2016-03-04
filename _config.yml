@@ -6,7 +6,7 @@ url: "http://cdohub.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: "Chief Data Officer Business School"
-  avatar: CDO-Elephant2.png
+  avatar: CDO-Elephant3.png
   gravatar: # Email MD5 hash
   description: "The place to train your Chief Data Officer Skills, to learn how to create data-driven business value for your company and to exchange with Chief Data Officers (CDO)." # used by search engines
 
