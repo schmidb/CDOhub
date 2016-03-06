@@ -34,3 +34,8 @@ to create a successful data strategy.
 Join one of my talks to learn more about the business influence of a 
 Lambda Architecture and to discuss efficient data platform strategies. 
 Looking forward to see you.
+
+# Further readings:
+* [http://lambda-architecture.net/](http://lambda-architecture.net/)
+* [http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems](http://www.datasciencecentral.com/profiles/blogs/lambda-architecture-for-big-data-systems)
+* [https://www.manning.com/books/big-data](https://www.manning.com/books/big-data)
