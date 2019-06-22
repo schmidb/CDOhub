@@ -4,7 +4,7 @@ url: "https://schmidb.github.io/CDOhub" # the base hostname & protocol for your 
 timezone: "Europe/Berlin"
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings: 
   # Meta
   title: "Chief Data Officer Business School"
   avatar: CDO-Elephant3.png
