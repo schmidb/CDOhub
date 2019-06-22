@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl:  # the subpath of your site, e.g. /blog/
-url: "http://cdohub.com" # the base hostname & protocol for your site
+url: "https://schmidb.github.io/CDOhub" # the base hostname & protocol for your site
 timezone: "Europe/Berlin"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -15,7 +15,7 @@ theme:
   header_text: <h1 class="title">CDO Business School Blog</h1>
      <i>"The place for CDOs to read, learn and discuss."</i>
   header_text_feature_image: img/header/banner-786084.jpg
-  footer_text: © 2016 Miriam & Markus Schmidberger founders of the Chief Data Officer Business School<br><a href="/contact/">Contact</a> - <a href="/imprint/">Imprint</a>
+  footer_text: © 2019 Miriam & Markus Schmidberger founders of the Chief Data Officer Business School<br><a href="/contact/">Contact</a> - <a href="/imprint/">Imprint</a>
 
   # Icons
   rss: true
