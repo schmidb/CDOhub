@@ -28,6 +28,7 @@ feature-img: "img/header/banner-911635.jpg"
 
 ## Certificate:
 **Certified Chief Data Officer** commissioned by CDOhub
-
+<!--
 <br>
 {% include preregistration.html %}
+-->

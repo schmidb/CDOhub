@@ -15,11 +15,11 @@ theme_settings:
   header_text: <h1 class="title">CDO Business School Blog</h1>
      <i>"The place for CDOs to read, learn and discuss."</i>
   header_text_feature_image: assets/img/header/banner-786084.jpg
-  footer_text: © 2019 Miriam & Markus Schmidberger founders of the Chief Data Officer Business School<br><a href="/contact/">Contact</a> - <a href="/imprint/">Imprint</a>
+  footer_text: © 2019 Miriam & Markus Schmidberger founders of the Chief Data Officer Business School<br><a href="https://schmidb.github.io/CDOhub/contact/">Contact</a> - <a href="https://schmidb.github.io/CDOhub/imprint/">Imprint</a>
 
   # Icons
   rss: true
-  email_address: "info@cdohub.com"
+  email_address: "markus.schmidberger@gmail.com"
   behance:
   bitbucket:
   dribbble:
